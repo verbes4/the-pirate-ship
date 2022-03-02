@@ -1,5 +1,5 @@
 # the-pirate-ship
-Welcome aboard.
+Welcome aboard. Orginization will be done soon.
 
 I made a GitHub repo for all my piracy links, because bookmarks get annoying after a while.
 
