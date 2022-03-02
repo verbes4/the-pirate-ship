@@ -44,3 +44,5 @@ Warning: These are all my personal opinion. You might have different sites which
 [Friendly Windows Thread](https://rentry.org/fwt) - Great thread for all things Windows.
 
 [128-Bit-Bay-Software](https://github.com/JENOVAAbsolute/128-Bit-Bay-Software) - Thread from the folks at 128-Bit-Bay with lots of software and games
+
+[PrivacyTools.io](https://www.privacytools.io/) - Everything privacy
