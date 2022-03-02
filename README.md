@@ -24,8 +24,6 @@ If you are new to piracy, I recommend the [Beginners Guide to Piracy](https://re
 
 [VR Pirate's Wiki](https://wiki.vrpirates.club/en/home) - Great place to get VR games for free.
 
-
-
 ## Tools
 [Unblockit Proxy](https://unblockit.cam/) - Great proxy website to access things like 1337x.
 
@@ -35,6 +33,10 @@ If you are new to piracy, I recommend the [Beginners Guide to Piracy](https://re
 
 [qBittorrent](https://www.qbittorrent.org/download.php) - The best torrent client ever made. Trust me.
 
+[NoPayStation](https://nopaystation.com/) - PSN content straight from sony's servers.
+
+[BlockTheSpot](https://github.com/mrpond/BlockTheSpot) - Block Spotify Ad's
+
 ## Web Extensions
 [Bypass Paywalls Clean](https://gitlab.com/magnolia1234/bypass-paywalls-firefox-clean) - Bypass PayWalls on a number of sites.
 
@@ -43,6 +45,17 @@ If you are new to piracy, I recommend the [Beginners Guide to Piracy](https://re
 [FastForward](https://fastforward.team/) - Updated version of Universal Bypass, skip URL "shorteners".
 
 [SponsorBlock](https://sponsor.ajay.app/) - Skip annoying YouTube sponsors.
+
+## Android
+[Mobilism](https://forum.mobilism.org/index.php) - Most trusted site for android modded/paid apk's.
+
+[xManager](https://xmanager-v2.github.io/) - Enables Spotify premium features for free.
+
+[Aliucord](https://github.com/Aliucord/Aliucord) - Discord client mod for mobile.
+
+[AdAway](https://adaway.org/) - Block Ad's everywhere.
+
+[Youtube Vanced](https://vancedapp.com/) - Modded YouTube Android client.
 
 ## Favorite Sites
 Warning: These are all my personal opinion. You might have different sites which you think are better than mine. Feel free to use those instead.
@@ -65,3 +78,7 @@ Warning: These are all my personal opinion. You might have different sites which
 [PrivacyTools.io](https://www.privacytools.io/) - Everything privacy.
 
 [The Eye](https://the-eye.eu/) - Used to be a great site with lots of data, seems they lost alot of it however.
+
+[hacks.guide](https://hacks.guide/) - Hack various consoles, enabling piracy.
+
+[iPhone Piracy Guide](https://www.reddit.com/r/Piracy/comments/ajkeq2/my_little_guide_for_piracy_on_iphone/) - Android better.
