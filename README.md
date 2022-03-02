@@ -3,7 +3,7 @@ Welcome aboard.
 
 I made a GitHub repo for all my piracy links, because bookmarks get annoying after a while.
 
-This list is also mirrored on [my website](http://verbes4.xyz/the-pirate-ship.md).
+This list is also mirrored on [my website](https://verbes4.xyz/the-pirate-ship.md).
 
 If you are new to piracy, I recommend the [Beginners Guide to Piracy](https://rentry.org/Piracy-BG).
 
