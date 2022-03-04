@@ -47,6 +47,8 @@ If you are new to piracy, I recommend the [Beginners Guide to Piracy](https://re
 [SponsorBlock](https://sponsor.ajay.app/) - Skip annoying YouTube sponsors.
 
 ## Android
+[r/ApksApps Megathread](https://apksapps.notion.site/apksapps/096ef38f452342ba99b4e1509a449729?v=9970360b443643789c333bd2c7180009) - Great list of modded APK's
+
 [Mobilism](https://forum.mobilism.org/index.php) - Most trusted site for android modded/paid apk's.
 
 [xManager](https://xmanager-v2.github.io/) - Enables Spotify premium features for free.
