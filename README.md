@@ -3,16 +3,18 @@ Welcome aboard. Orginization will be done soon.
 
 I made a GitHub repo for all my piracy links, because bookmarks get annoying after a while.
 
+Links with a ⭐ are recommended by me as I think they have the best content. It's all personal opinion.
+
 This list is also mirrored on [my website](https://verbes4.xyz/the-pirate-ship.md).
 
 If you are new to piracy, I recommend the [Beginners Guide to Piracy](https://rentry.org/Piracy-BG).
 
 ## Megathreads
-[Reddit r/Piracy](https://www.reddit.com/r/Piracy/wiki/megathread) / [Mirror](https://notabug.org/TheChumBucket/PiracySubreddit/src/master/wiki) - One of the most trustworthy threads out there for everything piracy.
+⭐[Reddit r/Piracy](https://www.reddit.com/r/Piracy/wiki/megathread) / [Mirror](https://notabug.org/TheChumBucket/PiracySubreddit/src/master/wiki) - One of the most trustworthy threads out there for everything piracy.
 
-[Reddit r/PiratedGames](https://rentry.co/pgames-mega-thread) - Also one of the most trustworthy threads out there, specifically for games.
+⭐[Reddit r/PiratedGames](https://rentry.co/pgames-mega-thread) - Also one of the most trustworthy threads out there, specifically for games.
 
-[Reddit r/Roms](https://r-roms.github.io/) - Again, one of the most trusthworthy threads out there, but specifically for roms.
+⭐[Reddit r/Roms](https://r-roms.github.io/) - Again, one of the most trusthworthy threads out there, but specifically for roms.
 
 [awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - Very highly recommended by veteran pirates. Like this list but better.
 
@@ -29,13 +31,13 @@ If you are new to piracy, I recommend the [Beginners Guide to Piracy](https://re
 [VR Pirate's Wiki](https://wiki.vrpirates.club/en/home) - Great place to get VR games for free.
 
 ## Tools
-[Unblockit Proxy](https://unblockit.cam/) - Great proxy website to access things like 1337x.
+[Unblockit Proxy](https://unblockit.tv/) - Great proxy website to access things like 1337x.
 
 [Microsoft Activation Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Activate practically any Microsoft product.
 
 [ytdl-gui](https://mrs0m30n3.github.io/youtube-dl-gui/) - Download Youtube videos to multiple formats easily.
 
-[qBittorrent](https://www.qbittorrent.org/download.php) - The best torrent client ever made. Trust me.
+⭐[qBittorrent](https://www.qbittorrent.org/download.php) - The best torrent client ever made. Trust me.
 
 [NoPayStation](https://nopaystation.com/) - PSN content straight from sony's servers.
 
@@ -44,7 +46,7 @@ If you are new to piracy, I recommend the [Beginners Guide to Piracy](https://re
 ## Web Extensions
 [Bypass Paywalls Clean](https://gitlab.com/magnolia1234/bypass-paywalls-firefox-clean) - Bypass PayWalls on a number of sites.
 
-[uBlock Origin](https://github.com/gorhill/uBlock) - Widely known as the best Ad/Tracker/Everything blocker. Highly recommended when pirating.
+⭐[uBlock Origin](https://github.com/gorhill/uBlock) - Widely known as the best Ad/Tracker/Everything blocker. Highly recommended when pirating.
 
 [FastForward](https://fastforward.team/) - Updated version of Universal Bypass, skip URL "shorteners".
 
@@ -53,7 +55,7 @@ If you are new to piracy, I recommend the [Beginners Guide to Piracy](https://re
 ## Android
 [r/ApksApps Megathread](https://apksapps.notion.site/apksapps/096ef38f452342ba99b4e1509a449729?v=9970360b443643789c333bd2c7180009) - Great list of modded APK's
 
-[Mobilism](https://forum.mobilism.org/index.php) - Most trusted site for android modded/paid apk's.
+⭐[Mobilism](https://forum.mobilism.org/index.php) - Most trusted site for android modded/paid apk's.
 
 [xManager](https://xmanager-v2.github.io/) - Enables Spotify premium features for free.
 
