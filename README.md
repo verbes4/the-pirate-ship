@@ -16,6 +16,10 @@ If you are new to piracy, I recommend the [Beginners Guide to Piracy](https://re
 
 [awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - Very highly recommended by veteran pirates. Like this list but better.
 
+[Ripped](https://ripped.guide/) - Another great megathread with some extras.
+
+[johncena141](https://rentry.co/johncena141-collective) - Stuff by johncena141, a linux games uploader on 1337x.
+
 [Reddit r/FREEMEDIAHECKYEAH](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index) / [Mirror](https://fmhy.tk/) - Covers things even broader than piracy, lots of stuff here.
 
 [Reddit r/SoftwarePirates](https://rentry.org/SoftwarePirates-Megathread) - Great thread, specifically for software applications.
