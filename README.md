@@ -31,7 +31,7 @@ If you are new to piracy, I recommend the [Beginners Guide to Piracy](https://re
 [VR Pirate's Wiki](https://wiki.vrpirates.club/en/home) - Great place to get VR games for free.
 
 ## Tools
-[Unblockit Proxy](https://unblockit.tv/) - Great proxy website to access things like 1337x.
+[Unblockit Proxy](https://unblockit.blue/) - Great proxy website to access things like 1337x.
 
 [Microsoft Activation Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Activate practically any Microsoft product.
 
