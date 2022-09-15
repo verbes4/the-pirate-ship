@@ -10,19 +10,17 @@ This list is also mirrored on [my website](https://verbes4.xyz/the-pirate-ship.m
 If you are new to piracy, I recommend the [Beginners Guide to Piracy](https://rentry.org/Piracy-BG).
 
 ## Megathreads
-⭐[Reddit r/Piracy](https://www.reddit.com/r/Piracy/wiki/megathread) / [Mirror](https://notabug.org/TheChumBucket/PiracySubreddit/src/master/wiki) - One of the most trustworthy threads out there for everything piracy.
+⭐[Reddit r/FREEMEDIAHECKYEAH](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index) / [Mirror](https://fmhy.tk/) - One of the most trustworthy threads out there for everything piracy & more.
 
 ⭐[Reddit r/PiratedGames](https://rentry.co/pgames-mega-thread) - Also one of the most trustworthy threads out there, specifically for games.
 
 ⭐[Reddit r/Roms](https://r-roms.github.io/) - Again, one of the most trusthworthy threads out there, but specifically for roms.
 
-[awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - Very highly recommended by veteran pirates. Like this list but better.
+[awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - Very highly recommended by veteran pirates. Like this list but better, but kinda outdated.
 
 [Ripped](https://ripped.guide/) - Another great megathread with some extras.
 
 [johncena141](https://rentry.co/johncena141-collective) - Stuff by johncena141, a linux games uploader on 1337x.
-
-[Reddit r/FREEMEDIAHECKYEAH](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index) / [Mirror](https://fmhy.tk/) - Covers things even broader than piracy, lots of stuff here.
 
 [Reddit r/SoftwarePirates](https://rentry.org/SoftwarePirates-Megathread) - Great thread, specifically for software applications.
 
