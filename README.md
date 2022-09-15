@@ -37,9 +37,9 @@ If you are new to piracy, I recommend the [Beginners Guide to Piracy](https://re
 
 ⭐[qBittorrent](https://www.qbittorrent.org/download.php) - The best torrent client ever made. Trust me.
 
-[NoPayStation](https://nopaystation.com/) - PSN content straight from sony's servers.
+[NoPayStation](https://nopaystation.com/) - PSN content straight from Sony's servers.
 
-[BlockTheSpot](https://github.com/mrpond/BlockTheSpot) - Block Spotify Ad's
+[BlockTheSpot](https://github.com/mrpond/BlockTheSpot) - Block Spotify Ads.
 
 ## Web Extensions
 [Bypass Paywalls Clean](https://gitlab.com/magnolia1234/bypass-paywalls-firefox-clean) - Bypass PayWalls on a number of sites.
@@ -51,17 +51,17 @@ If you are new to piracy, I recommend the [Beginners Guide to Piracy](https://re
 [SponsorBlock](https://sponsor.ajay.app/) - Skip annoying YouTube sponsors.
 
 ## Android
-[r/ApksApps Megathread](https://apksapps.notion.site/apksapps/096ef38f452342ba99b4e1509a449729?v=9970360b443643789c333bd2c7180009) - Great list of modded APK's
+[r/ApksApps Megathread](https://apksapps.notion.site/apksapps/096ef38f452342ba99b4e1509a449729?v=9970360b443643789c333bd2c7180009) - Great list of modded APKs.
 
-⭐[Mobilism](https://forum.mobilism.org/index.php) - Most trusted site for android modded/paid apk's.
+⭐[Mobilism](https://forum.mobilism.org/index.php) - Most trusted site for android modded/paid APKs.
 
 [xManager](https://xmanager-v2.github.io/) - Enables Spotify premium features for free.
 
-[Aliucord](https://github.com/Aliucord/Aliucord) - Discord client mod for mobile.
+[Aliucord](https://github.com/Aliucord/Aliucord) - Discord client mod.
 
-[AdAway](https://adaway.org/) - Block Ad's everywhere.
+[AdAway](https://adaway.org/) - Block Ads everywhere.
 
-[Youtube Vanced](https://vancedapp.com/) - Modded YouTube Android client.
+[NewPipe x SponsorBlock](https://github.com/polymorphicshade/NewPipe) - Privacy oriented YouTube client with downloads, AdBlock, SponsorBlock and dislikes.
 
 ## Favorite Sites
 Warning: These are all my personal opinion. You might have different sites which you think are better than mine. Feel free to use those instead.
@@ -72,7 +72,7 @@ Warning: These are all my personal opinion. You might have different sites which
 
 [Piracy.moe](https://piracy.moe/) - Great site for japanese media (Anime, Manga, etc.)
 
-[PS4-INDEX](https://ps4.td-index2.workers.dev/0:/) - High quality site for PS4 PKG's for jailbroken PS4's.
+[PS4-INDEX](https://ps4.td-index2.workers.dev/0:/) - High quality site for PS4 PKG's for jailbroken PS4's. **Unsure if still working.**
 
 [hShop](https://hshop.erista.me/) - Everything and anything you would need for 3DS/Citra Piracy.
 
@@ -87,4 +87,4 @@ Warning: These are all my personal opinion. You might have different sites which
 
 [hacks.guide](https://hacks.guide/) - Hack various consoles, enabling piracy.
 
-[iPhone Piracy Guide](https://www.reddit.com/r/Piracy/comments/ajkeq2/my_little_guide_for_piracy_on_iphone/) - Android better.
+[iPhone Piracy Guide](https://www.reddit.com/r/Piracy/comments/ajkeq2/my_little_guide_for_piracy_on_iphone/) - Outdated but fairly useful.
