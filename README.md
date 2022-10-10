@@ -68,6 +68,8 @@ Warning: These are all my personal opinion. You might have different sites which
 
 [FitGirl Repacks](https://fitgirl-repacks.site/) - My favorite site to get games for PC and sometimes Switch.
 
+[Dodi Repacks](https://dodi-repacks.site/) - DL sizes are larger tthan FitGirl, but install are quicker.
+
 [Vimm's Lair](https://vimm.net/) - My favorite site for downloading Roms.
 
 [Piracy.moe](https://piracy.moe/) - Great site for japanese media (Anime, Manga, etc.)
