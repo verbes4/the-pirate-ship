@@ -78,6 +78,8 @@ Warning: These are all my personal opinion. You might have different sites which
 
 [hShop](https://hshop.erista.me/) - Everything and anything you would need for 3DS/Citra Piracy.
 
+[AbandonedWare](https://www.myabandonware.com/) - Abandoned/Old Software OR Games.
+
 ## Other links
 [Friendly Windows Thread](https://rentry.org/fwt) - Great thread for all things Windows.
 
