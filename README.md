@@ -79,6 +79,7 @@ Warning: These are all my personal opinion. You might have different sites which
 [hShop](https://hshop.erista.me/) - Everything and anything you would need for 3DS/Citra Piracy.
 
 [MyAbandonWare](https://www.myabandonware.com/) - Abandoned/Old Software and Games.
+[Flashpoint](https://bluemaxima.org/flashpoint/) - 100K web (mostly Flash) games and 10k animations.
 
 ## Other links
 [Friendly Windows Thread](https://rentry.org/fwt) - Great thread for all things Windows.
