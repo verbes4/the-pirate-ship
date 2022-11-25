@@ -5,7 +5,7 @@ I made a GitHub repo for all my piracy links, because bookmarks get annoying aft
 
 Links with a ⭐ are recommended by me as I think they have the best content. It's all personal opinion.
 
-This list is also mirrored on [my website](https://verbes4.xyz/the-pirate-ship.md).
+This list is also mirrored on [my website](https://verbes4.xyz/the-pirate-ship.md), however it might be outdated at times.
 
 If you are new to piracy, I recommend the [Beginners Guide to Piracy](https://rentry.org/Piracy-BG).
 
