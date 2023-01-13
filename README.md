@@ -20,7 +20,7 @@ If you are new to piracy, I recommend the [Beginners Guide to Piracy](https://re
 
 [Ripped](https://ripped.guide/) - Another great megathread with some extras.
 
-[johncena141](https://rentry.co/johncena141-collective) - Stuff by johncena141, a linux games uploader on 1337x.
+[johncena141](https://github.com/jc141x/portal) - Stuff by johncena141, a linux games uploader on 1337x.
 
 [Reddit r/SoftwarePirates](https://rentry.org/SoftwarePirates-Megathread) - Great thread, specifically for software applications.
 
@@ -39,10 +39,10 @@ If you are new to piracy, I recommend the [Beginners Guide to Piracy](https://re
 
 [NoPayStation](https://nopaystation.com/) - PSN content straight from Sony's servers.
 
-[BlockTheSpot](https://github.com/mrpond/BlockTheSpot) - Block Spotify Ads.
+[SpotX](https://github.com/spotx-cli) - Block Spotify Ads and more, from the creators of BlockTheSpot.
 
 ## Web Extensions
-[Bypass Paywalls Clean](https://gitlab.com/magnolia1234/bypass-paywalls-firefox-clean) - Bypass PayWalls on a number of sites.
+[Bypass Paywalls Clean](https://gitlab.com/magnolia1234/bypass-paywalls-firefox-clean) - Bypass PayWalls on a number of sites. Firefox only.
 
 ⭐[uBlock Origin](https://github.com/gorhill/uBlock) - Widely known as the best Ad/Tracker/Everything blocker. Highly recommended when pirating.
 
@@ -87,9 +87,9 @@ Warning: These are all my personal opinion. You might have different sites which
 
 [128-Bit-Bay-Software](https://github.com/JENOVAAbsolute/128-Bit-Bay-Software) - Thread from the folks at 128-Bit-Bay with lots of software and games.
 
-[PrivacyTools.io](https://www.privacytools.io/) - Everything privacy.
+[PrivacyGuides](https://www.privacyguides.org/tools/) - Everything privacy.
 
-[The Eye](https://the-eye.eu/) - Used to be a great site with lots of data, seems they lost alot of it however.
+[Myrient](https://myrient.erista.me/) - Roms for literally any system you could think of. From the cretors of hshop.
 
 [hacks.guide](https://hacks.guide/) - Hack various consoles, enabling piracy.
 
