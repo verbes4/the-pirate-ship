@@ -37,6 +37,8 @@ If you are new to piracy, I recommend the [Beginners Guide to Piracy](https://re
 
 ⭐[qBittorrent](https://www.qbittorrent.org/download.php) - The best torrent client ever made. Trust me.
 
+[mIRC](https://www.mirc.com/index.html) - Relay Chat & Sharing Client
+
 [NoPayStation](https://nopaystation.com/) - PSN content straight from Sony's servers.
 
 [SpotX](https://github.com/spotx-cli) - Block Spotify Ads and more, from the creators of BlockTheSpot.
