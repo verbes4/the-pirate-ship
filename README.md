@@ -59,7 +59,7 @@ If you are new to piracy, I recommend the [Beginners Guide to Piracy](https://re
 
 [xManager](https://xmanagerapp.com/) - Enables Spotify premium features for free.
 
-[Aliucord](https://github.com/Aliucord/Aliucord) - Discord client mod.
+[Vendetta](https://github.com/vendetta-mod/Vendetta) - Discord client mod, more updated than Aliucord.
 
 [AdAway](https://adaway.org/) - Block Ads everywhere.
 
