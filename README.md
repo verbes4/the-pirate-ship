@@ -41,7 +41,7 @@ If you are new to piracy, I recommend the [Beginners Guide to Piracy](https://re
 
 [NoPayStation](https://nopaystation.com/) - PSN content straight from Sony's servers.
 
-[SpotX](https://github.com/spotx-cli) - Block Spotify Ads and more, from the creators of BlockTheSpot.
+[BlockTheSpot](https://github.com/mrpond/BlockTheSpot) - Block Spotify Ads and more.
 
 ## Web Extensions
 [Bypass Paywalls Clean](https://gitlab.com/magnolia1234/bypass-paywalls-firefox-clean) - Bypass PayWalls on a number of sites. Firefox only.
