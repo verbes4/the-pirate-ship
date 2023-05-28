@@ -72,7 +72,7 @@ Warning: These are all my personal opinion. You might have different sites which
 
 [Dodi Repacks](https://dodi-repacks.site/) - DL sizes are larger than FitGirl, but install are quicker.
 
-[Vimm's Lair](https://vimm.net/) - My favorite site for downloading Roms.
+[Myrient](https://myrient.erista.me/) - Roms for literally any system you could think of. From the cretors of hshop.
 
 [Piracy.moe](https://piracy.moe/) - Great site for japanese media (Anime, Manga, etc.)
 
@@ -91,7 +91,7 @@ Warning: These are all my personal opinion. You might have different sites which
 
 [PrivacyGuides](https://www.privacyguides.org/tools/) - Everything privacy.
 
-[Myrient](https://myrient.erista.me/) - Roms for literally any system you could think of. From the cretors of hshop.
+[Vimm's Lair](https://vimm.net/) - Trusted site for downloading Roms.
 
 [hacks.guide](https://hacks.guide/) - Hack various consoles, enabling piracy.
 
