@@ -55,7 +55,7 @@ If you are new to piracy, I recommend the [Beginners Guide to Piracy](https://re
 
 ⭐[Mobilism](https://forum.mobilism.org/index.php) - Most trusted site for android modded/paid APKs.
 
-[xManager](https://xmanagerapp.com/) - Enables Spotify premium features for free.
+[xManager](https://github.com/Team-xManager/xManager) - Enables Spotify premium features for free.
 
 [Vendetta](https://github.com/vendetta-mod/Vendetta) - Discord client mod, more updated than Aliucord.
 
