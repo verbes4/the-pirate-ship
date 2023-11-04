@@ -14,7 +14,7 @@ If you are new to piracy, I recommend the [Beginners Guide to Piracy](https://re
 
 ⭐[Reddit r/Roms](https://r-roms.github.io/) - Again, one of the most trusthworthy threads out there, but specifically for roms.
 
-[awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - Very highly recommended by veteran pirates. Like this list but better, but kinda outdated.
+[awesome-piracy](https://github.com/Shakil-Shahadat/awesome-piracy) - Very highly recommended by veteran pirates. Like this list but better.
 
 [Ripped](https://ripped.guide/) - Another great megathread with some extras.
 
