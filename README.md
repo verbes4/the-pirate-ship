@@ -31,7 +31,7 @@ If you are new to piracy, I recommend the [Beginners Guide to Piracy](https://re
 
 [Microsoft Activation Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Activate practically any Microsoft product.
 
-[ytdl-gui](https://mrs0m30n3.github.io/youtube-dl-gui/) - Download Youtube videos to multiple formats easily.
+[cobalt](https://cobalt.tools/) - Download video and audio from many sites to multiple formats easily.
 
 ⭐[qBittorrent](https://www.qbittorrent.org/download.php) - The best torrent client ever made. Trust me.
 
