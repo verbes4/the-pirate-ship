@@ -85,8 +85,6 @@ Warning: These are all my personal opinion. You might have different sites which
 ## Other links
 [Friendly Windows Thread](https://rentry.org/fwt) - Great thread for all things Windows.
 
-[128-Bit-Bay-Software](https://github.com/JENOVAAbsolute/128-Bit-Bay-Software) - Thread from the folks at 128-Bit-Bay with lots of software and games.
-
 [PrivacyGuides](https://www.privacyguides.org/tools/) - Everything privacy.
 
 [Vimm's Lair](https://vimm.net/) - Trusted site for downloading Roms.
